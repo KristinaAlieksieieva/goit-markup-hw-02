@@ -1,0 +1,36 @@
+body {
+  background-color: #f5f5f5;
+  color: #212121;
+}
+.list {
+  list-style: none;
+}
+.site-nav .link:hover,
+.site-nav .link:focus {
+  color: #2196f3;
+}
+.contacts-list .link:hover,
+.contacts-list .link:focus {
+  color: #2196f3;
+}
+
+.address-list .link:hover,
+.address-list .link:focus {
+  color: #2196f3;
+}
+
+.page-footer {
+  background-color: #2f303a;
+}
+
+/* Основний колір color: #212121;
+ */
+/* Другорядний колір color: #757575; */
+
+/* Акцент color: #2196F3; */
+
+/* Повністю білий колір  #FFFFFF; */
+
+/* 60% прозорість білого кольору color: rgba(255, 255, 255, 0.6); */
+
+/* Другорядний колір фону background: #F5F4FA; */ ;
