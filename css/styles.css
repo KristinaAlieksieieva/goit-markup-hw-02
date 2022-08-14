@@ -148,7 +148,7 @@ button {
 }
 .team-title {
   font-size: 36px;
-  line-height: 42px;
+  line-height: 1.16;
   text-align: center;
   color: var(--primary-text-color);
 }
